@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Kanza</h1>
-<h3 align="center">A full-stack developer based in Indonesia.</h3>
+<h1>👋 Hi, I'm Kanza</h1>
+<h3>A full-stack developer based in Indonesia.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.kanza.work/](https://www.kanza.work/)
 
